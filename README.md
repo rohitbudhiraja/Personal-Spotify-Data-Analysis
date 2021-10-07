@@ -8,7 +8,7 @@ Link- [Click here](https://www.spotify.com/in-en/account/privacy/)
 Using the files Spotify has given us, we will now create one dataframe that includes all our streaming data PLUS whether each song is on our Library PLUS each song’s Spotify ‘URI’ (unique identifier — it’ll come in handy later)
 
 ### Step 3:  Loading Data into Tableau
-Connect to your Excel file (MySpotifyDataTable.csv) as a data source.
+Connect to your Excel file (MySpotifyDataTableXYZ.csv) as a data source.
 
 ### Step 4: Editing Fields in Tableau
 
