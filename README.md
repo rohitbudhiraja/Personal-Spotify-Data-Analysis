@@ -19,4 +19,4 @@ Convert Ms Played into Minutes Listened:
 ### Step 5: Create Visualizations
 
 We will create some sick visualizations for insights. 
-My Dashboard - [Click here] 
+My Dashboard - [Click here](https://public.tableau.com/app/profile/rohit.budhiraja1186/viz/SpotifyPersonalDataAnalysis/SpotifyPersonalDataAnalysis)
